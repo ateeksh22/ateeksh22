@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning CS50
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mail-ateekshswaroop@gmail.com
+- 📫 How to reach me ateekshswaroop@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Starting from scratch 
 
